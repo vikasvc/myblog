@@ -10,6 +10,8 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+#bootstrap
+  gem 'bootstrap-sass', '~> 3.3.6'
   
 
 # Use SCSS for stylesheets
